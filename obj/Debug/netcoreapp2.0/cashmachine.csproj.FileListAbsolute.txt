@@ -1,0 +1,11 @@
+/home/denis/Documents/projects/cashmachine/bin/Debug/netcoreapp2.0/cashmachine.deps.json
+/home/denis/Documents/projects/cashmachine/bin/Debug/netcoreapp2.0/cashmachine.runtimeconfig.json
+/home/denis/Documents/projects/cashmachine/bin/Debug/netcoreapp2.0/cashmachine.runtimeconfig.dev.json
+/home/denis/Documents/projects/cashmachine/bin/Debug/netcoreapp2.0/cashmachine.dll
+/home/denis/Documents/projects/cashmachine/bin/Debug/netcoreapp2.0/cashmachine.pdb
+/home/denis/Documents/projects/cashmachine/obj/Debug/netcoreapp2.0/cashmachine.csprojResolveAssemblyReference.cache
+/home/denis/Documents/projects/cashmachine/obj/Debug/netcoreapp2.0/cashmachine.csproj.CoreCompileInputs.cache
+/home/denis/Documents/projects/cashmachine/obj/Debug/netcoreapp2.0/cashmachine.AssemblyInfoInputs.cache
+/home/denis/Documents/projects/cashmachine/obj/Debug/netcoreapp2.0/cashmachine.AssemblyInfo.cs
+/home/denis/Documents/projects/cashmachine/obj/Debug/netcoreapp2.0/cashmachine.dll
+/home/denis/Documents/projects/cashmachine/obj/Debug/netcoreapp2.0/cashmachine.pdb
